@@ -37,8 +37,7 @@
 	  "webpack-dev-server": "^3.11.0"
 	},
 	"dependencies": {
-	  "socket.io-client": "^3.0.4",
-	  "three": "0.123.0"
+	  "three": "0.129.0"
 	},
 	"description": ""
   }
